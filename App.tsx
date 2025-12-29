@@ -6,10 +6,11 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
+import ChatBot from './components/ChatBot';
 
 const App: React.FC = () => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen relative">
       <Navbar />
       <main>
         <Hero />
@@ -44,6 +45,7 @@ const App: React.FC = () => {
         <Projects />
       </main>
       <Footer />
+      <ChatBot />
     </div>
   );
 };
