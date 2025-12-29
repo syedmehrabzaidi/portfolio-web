@@ -5,6 +5,7 @@ export interface Project {
   points: string[];
   tech: string[];
   image?: string;
+  link?: string;
 }
 
 export interface Experience {

@@ -7,8 +7,8 @@ export const PERSONAL_INFO = {
   location: "Karachi, Pakistan",
   email: "syedmehrab2288@gmail.com",
   phone: "+92 342 288 3720",
-  github: "https://github.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/syedmehrabzaidi",
+  linkedin: "https://www.linkedin.com/in/syed-mehrab-18934220a/",
   summary: "AI-focused Software Engineer with expertise in building production-ready AI systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and backend microservices architecture. Proven track record in developing scalable chatbot platforms and high-performance distributed systems."
 };
 
@@ -88,7 +88,8 @@ export const PROJECTS: Project[] = [
       "Built automated calendar logic integrated with inbound call systems.",
       "Created lead qualification workflows using n8n orchestration."
     ],
-    tech: ["n8n", "LLM", "Agentic AI", "Workflow Orchestration"]
+    tech: ["n8n", "LLM", "Agentic AI", "Workflow Orchestration"],
+    link: "https://drive.google.com/drive/folders/1nhk-ClpE2dL-i94oU-ZGXDLJTTVpKgeg?usp=drive_link"
   }
 ];
 
