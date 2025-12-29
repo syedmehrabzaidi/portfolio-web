@@ -1,12 +1,12 @@
 
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Skills from './components/Skills';
-import Experience from './components/Experience';
-import Projects from './components/Projects';
-import Footer from './components/Footer';
-import ChatBot from './components/ChatBot';
+import Navbar from './components/Navbar.tsx';
+import Hero from './components/Hero.tsx';
+import Skills from './components/Skills.tsx';
+import Experience from './components/Experience.tsx';
+import Projects from './components/Projects.tsx';
+import Footer from './components/Footer.tsx';
+import ChatBot from './components/ChatBot.tsx';
 
 const App: React.FC = () => {
   return (

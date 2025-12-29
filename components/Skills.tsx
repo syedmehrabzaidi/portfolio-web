@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { SKILLS } from '../data';
+import { SKILLS } from '../data.ts';
 
 const Skills: React.FC = () => {
   return (

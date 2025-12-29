@@ -1,5 +1,5 @@
 
-import { Experience, Project, SkillCategory } from './types';
+import { Experience, Project, SkillCategory } from './types.ts';
 
 export const PERSONAL_INFO = {
   name: "Syed Mehrab",

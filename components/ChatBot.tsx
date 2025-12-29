@@ -1,7 +1,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
-import { PERSONAL_INFO, EXPERIENCES, PROJECTS, SKILLS } from '../data';
+import { PERSONAL_INFO, EXPERIENCES, PROJECTS, SKILLS } from '../data.ts';
 
 const ChatBot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

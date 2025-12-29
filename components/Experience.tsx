@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { EXPERIENCES } from '../data';
+import { EXPERIENCES } from '../data.ts';
 
 const Experience: React.FC = () => {
   return (
